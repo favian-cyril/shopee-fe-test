@@ -1,0 +1,26 @@
+{
+    "string": {
+        "USD": "United States Dollar",
+        "CAD": "Canadian Dollar",
+        "IDR": "Indonesian Rupiah",
+        "GBP": "Great Britain Pounds",
+        "CHF": "Swiss Franc",
+        "SGD": "Singaporean Dollars",
+        "INR": "Indian Rupee",
+        "MYR": "Malaysian Ringgit",
+        "JPY": "Japanese Yen",
+        "KRW": "Korean Won"
+    },
+    "available": [
+        "USD",
+        "CAD",
+        "IDR",
+        "GBP",
+        "CHF",
+        "SGD",
+        "INR",
+        "MYR",
+        "JPY",
+        "KRW"
+    ]
+}
